@@ -11,10 +11,9 @@ I test trading software, both the web application and the desktop application. C
 **Software Test Engineer, Reliable Software Systems Pvt. Ltd**
 *March 2025 – Present*
 
-**The product:** A trading platform with a web application and a desktop application. Used by the traders to place real time trades and technically analyze the market movements and deploy the alogrithmic strategy to trade".
+**The product:** A trading platform with a web application and a desktop application. Used by the traders to place real time trades and technically analyze the market movements and deploy the alogrithmic strategy to trade.
 
-**My role:** "As the staff size is less I was the only tester and has to take the ownership of my work where along with testing I was responsible for client corrdination, stakeholder management, gathering requirement, troubleshooting produciton issues."
-
+**My role:** As the staff size is less I was the only tester and has to take the ownership of my work where along with testing I was responsible for client corrdination, stakeholder management, gathering requirement, troubleshooting produciton issues.
 ### What I test, and how
 
 | Area | Approach | Tools |
@@ -43,8 +42,6 @@ I test trading software, both the web application and the desktop application. C
 - Automated UI checks for the desktop application using Appium.
 - Manually tested the full order flow, algo strategy flow and order placement, chart visualisation, and live candle formation.
 - Logged and tracked defects, including critical or high-severity issues found before release.
-
-> Company code is not published here because it belongs to my employer. The projects below use public practice websites and show the same techniques.
 
 ---
 
@@ -82,16 +79,11 @@ Both projects run on every push through GitHub Actions (see `.github/workflows/t
 
 ---
 
-## Certifications and learning
-
-- [ISTQB Foundation Level or other certificate, year] *(remove if you don't have one)*
 
 ---
 
 ## Contact
 
-- Email: [your.email@example.com]
-- LinkedIn: [URL]
-- Location: [City, India]
+- Email: mayankmishra0911@gmail.com
+- Contact: 8875100979
 
-Open to [Software Test Engineer / QA Automation Engineer] roles.
