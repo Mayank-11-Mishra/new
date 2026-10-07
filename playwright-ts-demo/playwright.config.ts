@@ -48,7 +48,7 @@ type Screen = {
 const SCREENS: Screen[] = [
   {
     name: 'Product list',
-    open: async (p) => p.goto('/inventory.html'),
+    open: async (p) => {await p.goto('/inventory.html');},
     ready: byId('inventory-item'),
   },
   {
@@ -68,11 +68,10 @@ const SCREENS: Screen[] = [
   },
 ];
 
-test.describe.configure({ mode: 'serial' });
-
 test.use({ baseURL: BASE_URL });
 
 test.describe('Login, forms and saved state', () => {
+  test.describe.configure({mode: 'serial'})
   // 1. Does the site open?
   test('site opens and shows the login page', async ({ page }) => {
     const response = await page.goto('/');
