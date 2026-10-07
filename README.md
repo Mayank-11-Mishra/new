@@ -31,7 +31,7 @@ I test trading software, both the web application and the desktop application. C
 | Chart visualisation | Manual | |
 | Live candle formation | Manual | |
 
-Here need for manual testing arises as there are several modules that cannot be tested through automation. Example: "Order flow, algo strategies, charts and live candles depend on live market data and need judgement, so I test them manually.
+Here need for manual testing arises as there are several modules that cannot be tested through automation. Example: Order flow, algo strategies, charts and live candles depend on live market data and need judgement, so I test them manually.
 
 ### Highlights
 
