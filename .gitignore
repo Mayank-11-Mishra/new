@@ -1,0 +1,7 @@
+target/
+node_modules/
+playwright-report/
+test-results/
+.idea/
+.vscode/
+*.class

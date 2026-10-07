@@ -1,0 +1,16 @@
+{
+  "name": "playwright-ts-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Playwright + TypeScript tests: login, load time, state persistence",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^20.19.43",
+    "typescript": "^5.5.0"
+  }
+}
