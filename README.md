@@ -22,9 +22,9 @@ I test trading software, both the web application and the desktop application. C
 | Market watch feature (web) | Automated | Playwright + TypeScript |
 | Application load time and opening multiple forms (web) | Automated | Playwright + TypeScript |
 | State maintenance: the app restores its last saved state | Automated | Playwright + TypeScript |
-| Load testing (web) | Automated | Playwright + TypeScript [add any other tool you used] |
+| Load testing (web) | Automated | Playwright + TypeScript |
 | Web UI and button responses | Automated | Selenium + Java |
-| Web regression testing | Automated | [Playwright / Selenium] |
+| Web regression testing | Automated | Playwright / Selenium |
 | Desktop application UI testing | Automated | Appium |
 | Order flow and order placement | Manual | |
 | Algo strategy flow | Manual | |
