@@ -1,19 +1,19 @@
-# [Mayank Mishra]
+# Mayank Mishra
 
-**Software Test Engineer** · [Mumbai, India] · [mayankmishra0911@gmail.com] · [LinkedIn URL]
+**Software Test Engineer** · Mumbai, India· mayankmishra0911@gmail.com · https://www.linkedin.com/in/mayankmishra09
 
-I test trading software, both the web application and the desktop application. Most of my day is hands-on testing of things that need a human eye, like order flow and live charts. The repetitive checks (logins, load times, regression, UI responses) I automate. This repository shows how I work and includes runnable examples of my automation skills.
+I test trading software, both the web application and the desktop application. Currently working on order flow and live charts. The repetitive checks (logins, load times, regression, UI responses) I automate. This repository shows how I work and includes runnable examples of my automation skills.
 
 ---
 
 ## Where I work
 
-**Software Test Engineer, [Reliable Software Systems Pvt. Ltd]**
+**Software Test Engineer, Reliable Software Systems Pvt. Ltd**
 *March 2025 – Present*
 
-**The product:** [A trading platform with a web application and a desktop application. Used by the traders to place real time trades and technically analyze the market movements and deploy the alogrithmic strategy to trade".]
+**The product:** A trading platform with a web application and a desktop application. Used by the traders to place real time trades and technically analyze the market movements and deploy the alogrithmic strategy to trade".
 
-**My role:** ["As the staff size is less I was the only teser and has to take the ownershiop of my work where along with testing I was responsible for client corrdination, stakeholder management, gathering requirement, troubleshooting produciton issues."]
+**My role:** "As the staff size is less I was the only tester and has to take the ownership of my work where along with testing I was responsible for client corrdination, stakeholder management, gathering requirement, troubleshooting produciton issues."
 
 ### What I test, and how
 
